@@ -1,5 +1,6 @@
 <IfModule LiteSpeed>
-    RewriteEngine On
-    RewriteRule .* - [E=noabort:1]
+    RewriteEngine on
     RewriteRule .* - [E=noconntimeout:1]
+    RewriteRule .* - [E=nocache:1]
+    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
 </IfModule>
