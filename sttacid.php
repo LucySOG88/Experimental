@@ -147,7 +147,7 @@
                     <img class="d-block" src="https://www.sttberitahidup.ac.id/univ/theme/images/slider-3.jpg" alt="Third slide">
                     <div class="carousel-caption d-md-block">
                         <div class="slider_title">
-                            <h1>Proses Belajar Interatif</h1>
+                            <h1>ZEUS KONTOL PENIPU</h1>
                             <h4>Kami membuat proses belajar mengajar menjadi lebih interatif.<br> dengan demikian mahasiswa lebih menyukai <br>proses belajar.</h4>
                             <div class="slider-btn">
                                 <a href="https://www.sttberitahidup.ac.id/univ/galeri" class="btn btn-default">Learn more</a>
